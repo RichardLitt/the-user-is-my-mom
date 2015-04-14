@@ -1,7 +1,7 @@
 body {
   display: block;
   margin: 0;
-  background: #fff url('pam2.jpg') fixed;
+  background: #fff url('pam.jpg') fixed;
   background-position: top right;
   /*background-position: contain;*/
   background-size: cover;
