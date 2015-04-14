@@ -26,8 +26,8 @@ h1 {
   left: 50px;
   color: white;
   padding: 30px 50px 100px 50px;
-  background-color: rgba(0,0,0,.7);
-  max-width: 500px;
+  background-color: rgba(0,0,0,.85);
+  max-width: 400px;
 }
 
 .cta {
