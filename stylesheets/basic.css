@@ -64,7 +64,12 @@ h1 {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 24px;
+  font-family: Helvetica Neue, Helvetica, Arial, Times;
+  font-weight: 200;
+  line-height: 36px;
+  color: white;
+  margin-bottom: 0px;
 }
 
 p, li {
