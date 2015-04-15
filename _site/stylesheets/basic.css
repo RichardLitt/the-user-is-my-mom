@@ -55,7 +55,11 @@ h1 {
 }
 
 @media all and (max-width: 767px) {
+  body {
+    background-position: top;
+  }
   .text {
+    background-color: rgba(0,0,0,.7);
     padding-left: 15px;
     padding-right: 15px;
     left: 0px;
