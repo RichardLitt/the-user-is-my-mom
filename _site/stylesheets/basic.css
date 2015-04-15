@@ -98,9 +98,20 @@ a:hover, a:active {
   /*border: 1px solid #909;*/
 }
 
-.intern {
+.footer {
+  font-size: 14px;
+}
+
+.footnotes {
   padding-bottom: 30px;
   font-size: 14px;
+  padding: 10px;
+}
+
+.nodecoration {
+  padding: 0px;
+  border-radius: 0px;
+  background-color: transparent;
 }
 
 .website, .intern a, li a {
@@ -108,7 +119,6 @@ a:hover, a:active {
   border-radius: 2px;
   background-color: rgba(255,255,255,.3);
 }
-
 
 input {
   background: rgba(255,255,255,0);
