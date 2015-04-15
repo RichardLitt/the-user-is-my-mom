@@ -91,6 +91,10 @@ a {
   border-radius: 5px;
 }
 
+a.icon {
+  background-color: transparent;
+}
+
 a:hover, a:active {
   text-decoration: none;
   color: white;
