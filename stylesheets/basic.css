@@ -1,16 +1,39 @@
 body {
   display: block;
   margin: 0;
-  background: #fff url('pam.jpg') fixed;
+  background: #111 url('pam.jpg') fixed;
   background-position: top right;
-  /*background-position: contain;*/
   background-size: cover;
 }
-/*video#maya {
-  position: fixed; right: 0; bottom: 0;
-  min-width: 100%; min-height: 100%;
-  width: auto; height: auto; z-index: -100;
-}*/
+
+.banner {
+  text-align: center;
+  padding: 20px;
+  background-color: #111;
+  color: white;
+  font-size: 18px;
+  font-family: Helvetica Neue, Helvetica, Arial, Times;
+}
+
+.banner a {
+  background-color: #111;
+  padding: 0px;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.banner a:hover, .banner a:active, .banner a:visited {
+  background-color: #111;
+  padding: 0px;
+  text-decoration: none;
+}
+
+.wrap {
+  border-top: 1px solid #fff;
+  display: block;
+  margin: 0px;
+}
+
 h1 {
   font-family: Helvetica Neue, Helvetica, Arial, Times;
   font-weight: 200;
