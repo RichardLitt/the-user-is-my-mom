@@ -77,7 +77,7 @@ h3 {
 }
 
 p, li {
-  color: white; 
+  color: white;
   font-family: Helvetica Neue, Helvetica, Arial, Times;
   font-size: 18px;
   font-weight: 200;
@@ -150,15 +150,15 @@ input:hover {
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: white;  
+   color: white;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: white;  
+   color: white;
 }
 
-:-ms-input-placeholder {  
-   color: white;  
+:-ms-input-placeholder {
+   color: white;
 }
 
 input[type='submit'] {
@@ -172,4 +172,17 @@ input[type='submit'] {
 input[type='submit']:hover {
   background-color: rgba(255,255,255,.2);
   border: none;
+}
+.img-container {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+.img-container a {
+  display: inline-block;
+  width: 40%;
+  background: none;
+}
+.card-image {
+  display: block;
+  width: 100%;
 }

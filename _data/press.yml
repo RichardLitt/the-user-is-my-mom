@@ -1,0 +1,24 @@
+- source: vice
+  image: vice.png
+  title: "For $75, a Real-Life Mom Will Critique Your Website Design"
+  url: http://motherboard.vice.com/read/for-75-a-real-life-mom-will-critique-your-website-designe
+
+- source: cnbc
+  image: cnbc.png
+  title: "This mom gets paid to review websites"
+  url: "http://www.cnbc.com/id/102721245"
+
+- source: wired
+  image: wired.png
+  title: "Scotty Allen’s Mom Will Judge Your Website"
+  url: http://www.wired.com/2015/05/theuserismymom/
+
+- source: fastco
+  image: fastco.png
+  title: "Reviewing UX Designs While Drunk Makes Way More Sense Than You Think"
+  url: http://www.fastcodesign.com/3044455/reviewing-ux-designs-while-drunk-makes-way-more-sense-than-you-think
+
+- source: the-next-web
+  image: the-next-web.png
+  title: "This mom will review your website for $75"
+  url: http://thenextweb.com/dd/2015/05/19/guys-mom-will-review-website-75/
