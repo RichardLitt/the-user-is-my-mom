@@ -10,7 +10,10 @@ Clone.
 
 ## Usage
 
-`jekyll serve`
+```sh
+bundle exec jekyll build
+# Navigate to localhost:4000
+```
 
 This site uses [Netlify](https://netlify.com) as a host and SSL provider. Pushing to branch `gh-pages` makes it go there.
 
